@@ -1,0 +1,6 @@
+streamlit
+langchain
+langchain-community
+astor
+python-dotenv
+tiktoken
