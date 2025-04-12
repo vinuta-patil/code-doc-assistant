@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+
+# Virtual env
+venv/
+
+# Streamlit cache
+.streamlit/
+
+# Uploaded/output files
+uploaded/
+*.py_documented.py
